@@ -5,8 +5,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihozpolat&show_icons=true&title_color=fff&icon_color=1b9ce6&text_color=efefef&bg_color=222222" alt="Fatih Özpolat's Github Stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihozpolat&theme=react&layout=compact" alt="Fatih Özpolat's Top Lang Stats">
 </p>
-
-<div>
-
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=fatihozpolat&bg_color=222222&color=1b9ce6&line=1b9ce6&point=ffffff&area=true&hide_border=true" alt="Fatih Özpolat Graph">
-</div>
