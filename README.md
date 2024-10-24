@@ -11,7 +11,7 @@ Ortaokul/Lise yıllarından bu yana yazılıma merak salmış, bu merakı bir ü
 * 🌍  Mersin'de yaşıyorum
 * 🖥️  Kişisel [Web Sitem](http://fatihozpolat.com)
 * ✉️  Bana ulaşabileceğiniz E-Posta (başka kanalları tercih ederim) [hello@fatihozpolat.com](mailto:hello@fatihozpolat.com)
-* 🧠  Şuan da NuxtJS öğrenme üstünde çalışıyorum
+* 🧠  Şuan da Eterna firmasında Ekip Lideri olarak çalışıyorum.
 * 🤝  Enteresan ve backendi Laravel ile geliştirilecek Projeler üzerinde yardıma ve geliştirmeye açığım.
 
 <a href="https://www.github.com/fatihozpolat" target="_blank" rel="noreferrer"><img
