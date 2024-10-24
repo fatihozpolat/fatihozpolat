@@ -6,7 +6,7 @@ Merhaba![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 Computer Enginer - Software Developer
 -------------------------------------
 
-Ortaokul/Lise yıllarından bu yana yazılıma merak salmış, bu merakı bir üst seviyeye taşıyıp Bilgisayar Mühendisliği bitirmiş bir arkadaşım. Kariyerime ilk web masterlık ile başlayıp şuan fullstack kodlama yapmaktayım. Backend de 3 seneyi aşkın süredir bi fiil Laravel yazmakta, Frontend olarak şuanda Vue3 kullanmaktayım. Frontend tercihlerim yer yer değişebiliyor :) ama şuan beni en çok cezbeden Vue sanırım.
+Ortaokul/Lise yıllarından bu yana yazılıma merak salmış, bu merakı bir üst seviyeye taşıyıp Bilgisayar Mühendisliği bitirmiş birisiyim. Kariyerime ilk web masterlık ile başlayıp şuan fullstack kodlama yapmaktayım. Backend de 3 seneyi aşkın süredir bi fiil Laravel yazmakta, Frontend olarak şuanda Vue3 kullanmaktayım. Frontend tercihlerim yer yer değişebiliyor :) ama şuan beni en çok cezbeden Vue sanırım.
 
 * 🌍  Mersin'de yaşıyorum
 * 🖥️  Kişisel [Web Sitem](http://fatihozpolat.com)
